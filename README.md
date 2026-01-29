@@ -77,13 +77,8 @@ I’m a **Fourth Year Computer Science Engineering student** with strong fundame
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shantanu-poswal/shantanu-poswal/output/github-snake-dark.svg" /></p>
-
----
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShantanuPoswal&theme=tokyonight&hide_border=false&count_private=true" height="195px" />
-</div>
+  <img src="https://raw.githubusercontent.com/shantanu-poswal/shantanu-poswal/output/github-snake-dark.svg" />
+</p>
 
 
 ## 🌐 Connect With Me
